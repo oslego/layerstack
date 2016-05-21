@@ -1,0 +1,11 @@
+{
+  "name": "layerstack",
+  "version": "1.0.0",
+  "description": "Small library to visualize multiple CSS backgrounds as a stack of layers",
+  "main": "layerstack.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
